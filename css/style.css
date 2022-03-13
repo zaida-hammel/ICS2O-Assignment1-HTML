@@ -4,7 +4,7 @@ body {
 
 .mdl-layout__header {
   background-color: rgb(173 173 173);
-padding: 20px;
+  padding: 20px;
   border: 2px solid rgb(59 59 59);
   border-radius: 1px;
 }
@@ -43,7 +43,7 @@ p {
 
 .demo-list-item {
   width: 300px;
-      }
+}
 
 .mdl-list__item-primary-content {
   font-family: "Times New Roman", Times, serif;
