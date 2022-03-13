@@ -4,7 +4,7 @@ body {
 
 .mdl-layout__header {
   background-color: rgb(173 173 173);
-  padding: 20px;
+padding: 20px;
   border: 2px solid rgb(59 59 59);
   border-radius: 1px;
 }
